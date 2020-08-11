@@ -7191,3 +7191,97 @@ http://45.249.187.238:8081/hls/new13.m3u8
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="SHAHRIAR",History TV HD (HINDI)
 http://103.211.185.98:8082/21/index.m3u8?token=b6fe0fd98506ec95376256227c0e78dcda388bdc-e5a50da872ceaa19c7553c3ebd651d5f-1596978878-1596968078&remote=103.213.242.62
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Kolkata Bangla",Star Jalsha
+#EXTGRP:Kolkata Bangla
+http://137.59.155.253:8088/hls/Star_Jalsha.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Kolkata Bangla",Star Jalsha HD
+#EXTGRP:Kolkata Bangla
+https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxiWBdL7Z_d89XQbHY6jO1cVwx2ZnRQG2JAlcfi_tzjcAkr2PL&usqp=CAU" group-title="Kolkata Bangla",Star Jalsha HD
+#EXTGRP:Kolkata Bangla
+http://175.41.46.16:8081/hls/7.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Kolkata Bangla",Zee Bangla
+#EXTGRP:Kolkata Bangla
+http://103.141.66.36/bpk-tv/10185/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNmrjzmGv9EBPL7HsitSh1jGqhvESwzkN7KXXrnTessEC0h6ua&usqp=CAU" group-title="Kolkata Bangla",Zee Bangla HD
+#EXTGRP:Kolkata Bangla
+http://175.41.46.16:8081/hls/6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Kolkata Bangla",Colors Bangla
+#EXTGRP:Kolkata Bangla
+https://itpolly.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Kolkata Bangla",Colors Bangla HD
+#EXTGRP:Kolkata Bangla
+https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Kolkata Bangla",Jalsha Movies
+#EXTGRP:Kolkata Bangla
+https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Kolkata Bangla",Jalsha Movies
+#EXTGRP:Kolkata Bangla
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Kolkata Bangla",Jalsha Movies HD
+#EXTGRP:Kolkata Bangla
+http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Kolkata Bangla",Jalsha Movies HD (Back-UP)
+#EXTGRP:Kolkata Bangla
+http://starshare.cc:41000/live/55674/55674/425.m3u8
+#EXTINF:-1 tvg-logo="https://realvubd.com/wp-content/uploads/2016/11/Zee-Bangla-Cinema-1-768x365.png" group-title="Kolkata Bangla",Zee Bangla Cinema
+#EXTGRP:Kolkata Bangla
+http://103.141.66.36/bpk-tv/10263/default/manifest.mpd
+#EXTINF:-1 group-title="Kolkata Bangla",Tollywood TV
+#EXTGRP:Kolkata Bangla
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpoRDe2HgtVAiNbv2i90q6qvVWxuvMmlP-LsvwObzQzn_sgu63&usqp=CAU" group-title="Kolkata Bangla",Tele Film
+#EXTGRP:Kolkata Bangla
+http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
+#EXTINF:-1 group-title="Bangla",My Cinema
+#EXTGRP:Bangla
+https://bdsl.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla",Movie Bangla
+#EXTGRP:Bangla
+https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDIwIDI6Mjc6MzUgQU0maGFzaF92YWx1ZT1uZUhoM29GWjYwT0I0YnBHcG5zU2FBPT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTvqb4PqrO8ohIPKojcopDpi7611EFFiyVt5tTfHEY_5zgUeKh&usqp=CAU" group-title="Bangla",Ruposhi Bangla
+#EXTGRP:Bangla
+http://103.141.66.36/bpk-tv/10111/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Kolkata Bangla",Sony Aath
+#EXTGRP:Kolkata Bangla
+http://103.205.133.19/hls/sony8.m3u8?token=RUrWsE_s5wmMULtA8MmHiQ.m3u8
+#EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Kolkata Bangla",Akaash Aath
+#EXTGRP:Kolkata Bangla
+http://103.141.66.36/bpk-tv/10112/default/manifest.mpd
+#EXTINF:-1 group-title="Kolkata Bangla",Orange Bangla
+#EXTGRP:Kolkata Bangla
+http://streamidvo.multitvsolution.in/OrangeTV-b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQM4spPflPICAbCtRr9cjnMAbnxYS2JFec4fr57-_NbLztTXmqP&usqp=CAU" group-title="Kolkata Bangla",Khusbo Bangla
+#EXTGRP:Kolkata Bangla
+http://103.141.66.36/bpk-tv/10139/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJe7LqmU4A8hkPzuAH5QZfl26GFaIT_I--rlobPJUGwTXHazT-&usqp=CAU" group-title="Kolkata Bangla",R Plus Gold
+#EXTGRP:Kolkata Bangla
+http://103.141.66.36/bpk-tv/10181/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8Ufo5e_v55UbJLEoPoPU79WOEdI7Mx6VrOI7aGJLCT-GQngEF&usqp=CAU" group-title="Kolkata Bangla",R plus
+#EXTGRP:Kolkata Bangla
+http://103.141.66.36/bpk-tv/10078/default/manifest.mpd
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSuLOv-x8R8XsG8hhntjlc1Rc5dtATGwulBskx1Efj-hMsCXgHU&usqp=CAU" group-title="Kolkata Bangla",APB Ananda
+#EXTGRP:Kolkata Bangla
+https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrG1JJy-7SAQKHZSXzgKhu6UI-x_wtWfsrixkvu6jSwKzwge14&usqp=CAU" group-title="Kolkata Bangla",Kolkata TV
+#EXTGRP:Kolkata Bangla
+https://streamhoichoi.multitvsolution.in/live/KolkataTV-h/p4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrG1JJy-7SAQKHZSXzgKhu6UI-x_wtWfsrixkvu6jSwKzwge14&usqp=CAU" group-title="Kolkata Bangla",Kolkata TV
+#EXTGRP:Kolkata Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/320.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="Kolkata Bangla",News 18 Bangla
+#EXTGRP:Kolkata Bangla
+https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx0FDgqe-Q4KaRjcDklS6XNLczn87VaUJNdTmezhpzAvYi75tl&usqp=CAU" group-title="Kolkata Bangla",Zee 24 Ghonta
+#EXTGRP:Kolkata Bangla
+http://z5amshls.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSx0FDgqe-Q4KaRjcDklS6XNLczn87VaUJNdTmezhpzAvYi75tl&usqp=CAU" group-title="Kolkata Bangla",Zee 24 Ghonta
+http://iptv.kitv.live:1935/live/Shari/MTV-P/192.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5z0PcNEZPbEuJOzwkooOaH_y6VOQ98H_djBgnqmvSO0NQppcW&usqp=CAU" group-title="Kolkata Bangla",Bangla Time
+#EXTGRP:Kolkata Bangla
+http://103.205.133.19/hls/banglatime.m3u8?token=RPMq1s9xpJcmb4xc63jp_w.m3u8
+#EXTINF:-1 tvg-id="TBN 24 USA" tvg-name="TBN 24 USA" tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangladesh/TBN24USA.png" group-title="Kolkata Bangla",TBN 24 USA
+#EXTGRP:Kolkata Bangla
+http://fingerme.dg21bd.com/TBN24/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Dd_Bangla.PNG/180px-Dd_Bangla.PNG" group-title="Kolkata Bangla",DD Bangla
+#EXTGRP:Kolkata Bangla
